@@ -1,0 +1,31 @@
+# Ignorar la configuración local de Visual Studio Code
+.vscode/
+
+
+## Otros ejemplos de archivos y carpetas comunes para ignorar en proyectos de desarrollo
+
+# # Archivos y carpetas comunes para ignorar en proyectos de desarrollo
+
+# # Dependencias
+# /node_modules/
+# /vendor/
+
+# # Archivos de compilación y directorios
+# /build/
+# /dist/
+# /out/
+
+# # Archivos de entorno
+# .env
+# .env.local
+
+# # Archivos de log
+# *.log
+# logs/
+
+# # Archivos de datos temporales
+# *.tmp
+# *.temp
+
+## Fin de ejemplos de archivos y carpetas comunes para ignorar en proyectos de desarrollo
+
