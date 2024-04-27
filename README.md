@@ -10,7 +10,7 @@ Cristian Gonzalo Vera
 **Completar indicando tkSP1Urgentes completas**  
 
 - Cristian Gonzalo Vera, GitHub: [@usuario1](https://github.com/usuario1). [**tkSP1Urgentes**]
-- Nombre Alumno 2, GitHub: [@usuario2](https://github.com/usuario2)
+- Cristian Gonzalo Vera, GitHub: [@usuario2](https://github.com/usuario2) [**tkSP1Urgentes**]
 - Nombre Alumno 3, GitHub: [@usuario3](https://github.com/usuario3)
 - Nombre Alumno 4, GitHub: [@usuario4](https://github.com/usuario4)
 - Nombre Alumno 5, GitHub: [@usuario5](https://github.com/usuario5)
