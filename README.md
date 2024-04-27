@@ -6,8 +6,10 @@
 ## Docente
 Cristian Gonzalo Vera
 
-## Integrantes
-- Nombre Alumno 1, GitHub: [@usuario1](https://github.com/usuario1)
+## Integrantes  
+**Completar indicando tkSP1Urgentes completas**  
+
+- Cristian Gonzalo Vera, GitHub: [@usuario1](https://github.com/usuario1). [**tkSP1Urgentes**]
 - Nombre Alumno 2, GitHub: [@usuario2](https://github.com/usuario2)
 - Nombre Alumno 3, GitHub: [@usuario3](https://github.com/usuario3)
 - Nombre Alumno 4, GitHub: [@usuario4](https://github.com/usuario4)
