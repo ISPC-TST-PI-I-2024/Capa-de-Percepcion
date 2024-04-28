@@ -11,14 +11,15 @@ Cristian Gonzalo Vera
 
 - Cristian Gonzalo Vera, GitHub: [@usuario1](https://github.com/usuario1). [**tkSP1Urgentes**]
 - Cristian Gonzalo Vera, GitHub: [@usuario2](https://github.com/usuario2) [**tkSP1Urgentes**]
-- Nombre Alumno 3, GitHub: [@usuario3](https://github.com/usuario3)
-- Nombre Alumno 4, GitHub: [@usuario4](https://github.com/usuario4)
-- Nombre Alumno 5, GitHub: [@usuario5](https://github.com/usuario5)
-- Nombre Alumno 6, GitHub: [@usuario6](https://github.com/usuario6)
-- Nombre Alumno 7, GitHub: [@usuario7](https://github.com/usuario7)
-- Nombre Alumno 8, GitHub: [@usuario8](https://github.com/usuario8)
+- Nombre Alumno 3, GitHub: [@usuario3](https://github.com/usuario3) [**tkSP1Urgentes**]
+- Nombre Alumno 4, GitHub: [@usuario4](https://github.com/usuario4) [**tkSP1Urgentes**]
+- Nombre Alumno 5, GitHub: [@usuario5](https://github.com/usuario5) [**tkSP1Urgentes**]
+- Nombre Alumno 6, GitHub: [@usuario6](https://github.com/usuario6) [**tkSP1Urgentes**]
+- Nombre Alumno 7, GitHub: [@usuario7](https://github.com/usuario7) [**tkSP1Urgentes**]
+- Nombre Alumno 8, GitHub: [@usuario8](https://github.com/usuario8) [**tkSP1Urgentes**]
 
-**ISSUE 1 completada**
+**ISSUE 1 completada** Todos crearon cuentas de github. 
+**ISSUE 2 completada** Todos se sumaron al equipo.  
 
 ## Sobre el Repositorio
 Este repositorio está dedicado al desarrollo de la capa de percepción para sistemas IoT, como parte del proyecto final de la asignatura. El repositorio está organizado en varias carpetas, cada una con un propósito específico:
