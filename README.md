@@ -18,8 +18,9 @@ Cristian Gonzalo Vera
 - Nombre Alumno 7, GitHub: [@usuario7](https://github.com/usuario7) [**tkSP1Urgentes**]
 - Nombre Alumno 8, GitHub: [@usuario8](https://github.com/usuario8) [**tkSP1Urgentes**]
 
-**ISSUE 1 completada** Todos crearon cuentas de github. 
+**ISSUE 1 completada** Todos crearon cuentas de github.  
 **ISSUE 2 completada** Todos se sumaron al equipo.  
+**ISSUE 3 completada** Todos instalaron y configurarion git.  
 
 ## Sobre el Repositorio
 Este repositorio está dedicado al desarrollo de la capa de percepción para sistemas IoT, como parte del proyecto final de la asignatura. El repositorio está organizado en varias carpetas, cada una con un propósito específico:
